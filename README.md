@@ -13,6 +13,10 @@ This repository contains datasets and visualizations related to COVID-19. The da
 Explore the interactive visualizations on Tableau:
 - [Tableau Visualization - Story 1](https://public.tableau.com/app/profile/maria.catalina.mazzuferi/viz/MidprojectCovid2/Story1?publish=yes): Graphics illustrating various COVID-19 metrics.
 
+## Presentation
+
+STORY 1 in Tableau link
+
 ## Data Fields
 
 - **Date**: Dates of recorded data.
